@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jquery-colorbox\n"
 "POT-Creation-Date: 2014-02-12 13:07+0900\n"
-"PO-Revision-Date: 2014-02-13 10:34+0900\n"
+"PO-Revision-Date: 2014-02-13 12:13+0900\n"
 "Last-Translator: jump-up <takuji.kubo@gmail.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
@@ -223,7 +223,7 @@ msgstr "ミリ秒"
 
 #: ../includes/settings-page/sp-colorbox-settings.php:72
 msgid "Sets the speed of the slideshow, in milliseconds"
-msgstr "スライドーショーの速度設定（ミリ秒）"
+msgstr "スライドショーの速度設定（ミリ秒）"
 
 #: ../includes/settings-page/sp-colorbox-settings.php:77
 msgid "Disable loop"
